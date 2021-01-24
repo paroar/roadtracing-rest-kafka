@@ -1,6 +1,6 @@
 # Rest-kafka
 
-Rest-kafka is a kafka producer container that recieves data via websocket.
+Rest-kafka is a kafka producer container that receives data via websocket.
 
 ## Configuration
 
